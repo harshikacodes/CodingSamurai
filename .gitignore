@@ -1,0 +1,30 @@
+# Node modules
+dist/
+node_modules/
+
+# Dependency directories
+frontend/node_modules/
+backend/node_modules/
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Package files
+package-lock.json
+yarn.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+*.bak
+*.tmp
+
+/backend/usersbulk.csv
